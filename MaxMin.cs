@@ -41,6 +41,7 @@ namespace Practice
             }
             Console.Write("Maximum element is : {0}\n", mx);
             Console.Write("Minimum element is : {0}\n\n", mn);
+             Console.WriteLine();
         }
     }
 }
